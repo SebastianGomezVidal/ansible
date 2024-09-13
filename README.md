@@ -1,2 +1,5 @@
 # ansible
-Ansible Servers Configuration
+This repo is about learning ansible
+
+Chaptee : Configuration
+
